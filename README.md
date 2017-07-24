@@ -1,4 +1,6 @@
-Udacity Nano degree App:
+Udacity Nano degree Project 
+
+Inventory App:
 
 Functions: allow users to search for information about book
 
