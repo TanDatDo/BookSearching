@@ -14,5 +14,5 @@ Skills:
  
  -asyncloader
  
- ![alt text](https://scontent-arn2-1.xx.fbcdn.net/v/t34.0-0/p280x280/20370783_1570386853069958_590314075_n.png?oh=e59a94b801fe004d24b41a0a0cb65d00&oe=59790BED)
+ ![alt text](https://github.com/TanDatDo/Nanodegree-Project-BookSearching/blob/8e0e747bb014e8fe1a0b497846f7dd5860204b05/app/src/main/res/drawable/book_searching_app.png)
 
